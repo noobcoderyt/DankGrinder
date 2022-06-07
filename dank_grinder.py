@@ -55,11 +55,6 @@ for i in range(20):
 	keyboard.press(Key.enter)
 	time.sleep(3)
 
-	keyboard.type("pls sell")
-	keyboard.press(Key.enter)
-
-	time.sleep(1.5)
-
 	keyboard.type("pls bal")
 	keyboard.press(Key.enter)
 
