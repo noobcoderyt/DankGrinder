@@ -1,3 +1,5 @@
+# THIS PROGRAM IS OUTDATED. PLEASE CHECK THE NEW FILE UPLOADED TO THIS REPOSITORY. Thanks
+
 from pynput.keyboard import *
 import time
 
