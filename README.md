@@ -1,5 +1,5 @@
 Welcome to the DankGrinder Repository! As we all know that grinding dank is pretty boring.
-Thats why he made this dankgrinder script for you!
+Thats why we made this dankgrinder script for you!
 
 <--Here is how you can use the script-->
 1. You MUST have Python installed! If you don't have then download from https://www.python.org
